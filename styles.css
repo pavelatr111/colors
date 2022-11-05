@@ -26,6 +26,9 @@ body {
     transition: background  0.3s;
     border-radius: 10px;
 }
+.vvv{
+    
+}
 
 .col h2:hover {
     background: rgba(0,0,0,0.1);
